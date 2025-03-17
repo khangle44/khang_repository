@@ -1,0 +1,25 @@
+/* Định dạng toàn bộ trang */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    background-color: #f4f4f4;
+}
+
+/* Tiêu đề */
+h1 {
+    color: #333;
+}
+
+/* Đoạn văn */
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Hình ảnh */
+img {
+    width: 300px; /* Kích thước ảnh */
+    border-radius: 10px; /* Bo góc ảnh */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); /* Đổ bóng */
+}
